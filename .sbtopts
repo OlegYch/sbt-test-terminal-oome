@@ -1,1 +1,2 @@
 -J-Xmx150m
+-J-XX:+HeapDumpOnOutOfMemoryError
